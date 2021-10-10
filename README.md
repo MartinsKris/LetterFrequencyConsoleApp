@@ -1,9 +1,9 @@
 # LetterFrequencyConsoleApp
-Letter Frequency Console App
+Letter Frequency Console App Java
 
 Task is completed in two languages - C# and Java.
 Java is used in current repository.
-C# You can find <a href="https://github.com/MartinsKris/LetterFrequencyConsoleAppCsharp">here</a>
+C# You can find <a href="https://github.com/MartinsKris/LetterFrequencyConsoleAppCsharp">here</a>.
 
 IntelliJ IDEA 2021.2.2 was used for development of Java version.
 
