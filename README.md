@@ -9,7 +9,7 @@ IntelliJ IDEA 2021.2.2 was used for development of Java version.
 
 ### How to run:
 
-Clone repository to Your local drive and open cloned folder with Java IDE i.g. IntelliJ IDEA 2021.2.2.
+Clone repository to Your local drive and open cloned folder with Java IDE in e.g. IntelliJ IDEA 2021.2.2.
 In IDE locate src folder and in src folder find Java file "Frequency". 
 In "Frequency" file change path to .txt file which you want to provide to app.
 With mouse right click on "Frequency" file and select "Run 'Frequency.main()'".
