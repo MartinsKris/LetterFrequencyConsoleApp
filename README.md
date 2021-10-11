@@ -7,6 +7,9 @@ C# You can find <a href="https://github.com/MartinsKris/LetterFrequencyConsoleAp
 
 IntelliJ IDEA 2021.2.2 was used for development of Java version.
 
+### What it does:
+Application reads .txt file and calculates what is frequency of each letter from english alphabet in provided .txt file.
+
 ### How to run:
 
 Clone repository to Your local drive and open cloned folder with Java IDE in e.g. IntelliJ IDEA 2021.2.2.
